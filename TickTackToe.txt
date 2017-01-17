@@ -1,0 +1,5 @@
+How To Play Tick Tack Toe
+
+- choose X or O
+- select column and row identifier; i.e. A2
+
